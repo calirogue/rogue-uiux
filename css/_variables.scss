@@ -1,0 +1,33 @@
+//Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:100,300,400,600,700');
+$font-family: 'Open Sans', sans-serif;
+$font-size: 14px;
+
+//Colors
+$color-black  : #313131;
+$color-purple : #774b63;
+$color-purple-hover: #a97581;
+$color-soft-purple: #835e73;
+$color-gray: #c4c4c4;
+$color-light-gray: #f6f6f7;
+$color-medium-gray: #ECEDEF;
+
+//Links
+$link-color: $color-purple;
+$link-decoration: none;
+$link-color-hover: $color-purple-hover;
+$link-decoration-hover: none;
+
+//Buttons
+$button-font: $font-family;
+$button-font-size: 14px;
+$button-font-color: white;
+$button-font-weight: 700;
+$button-text-transform: uppercase;
+$button-background-color: $color-purple;
+$button-border: solid 2px $color-purple;
+$button-background-color-hover: white;
+$button-font-color-hover: $color-purple;
+$button-border-hover: solid 2px $color-purple;
+$button-padding: 25px 45px;
+$button-transition: .2s all linear;
