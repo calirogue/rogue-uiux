@@ -1,0 +1,22 @@
+/* #myElement {
+  c:#0000
+} */
+#myElement {
+  color: #000000;
+}
+
+/* #myElement {
+  po:a
+} */
+#myElement {
+  position: absolute;
+}
+
+/* #myElement {
+  po:r
+} */
+
+#myElement {
+  position: relative;
+}
+
